@@ -4,3 +4,4 @@ add new line
 add another line
 Creating a new branch is quick.
 changes on master
+changes on dev

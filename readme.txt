@@ -6,3 +6,4 @@ Creating a new branch is quick.
 changes on master
 changes on dev
 add new feature1
+fix bug on feature1

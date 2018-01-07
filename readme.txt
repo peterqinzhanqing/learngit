@@ -5,3 +5,4 @@ add another line
 Creating a new branch is quick.
 changes on master
 changes on dev
+add new feature1
